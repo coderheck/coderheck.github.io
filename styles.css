@@ -2,4 +2,5 @@
 body {background-color: powderblue;}
 h1 {font-family: "Andalé Mono", monospace;}
 h2, p {font-family: "Georgia", sans-serif;}
-table, th, td {font-family: "Georgia", sans-serif; border: 1px solid black; border-collapse: collapse;}
+table, th, td {border: 1px solid black; border-collapse: collapse;}
+th, td {font-family: "Georgia", sans-serif;}
