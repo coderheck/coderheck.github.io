@@ -7,6 +7,9 @@ print(rocky)
 print("goofy ahh rocky")
 print("embot is racist, noted")
 
+local pi = math.pi
+print("the digits of pi are " .. pi)
+
 --goofy ahh rockytanker
 --webhook doesnt work :skull:
 --okay another webhook test
