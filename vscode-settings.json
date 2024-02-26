@@ -15,8 +15,10 @@
     "githubPullRequests.createOnPublishBranch": "never",
     "code-runner.runInTerminal": true,
     "debug.onTaskErrors": "showErrors",
-    "C_Cpp.default.compilerPath": "C:/Users/datmobile/msys2/mingw64/bin/gcc.exe",
+    "C_Cpp.default.compilerPath": "C:/Users/datmobile/msys2/ucrt64/bin/gcc.exe",
     "git.confirmSync": false,
     "git.postCommitCommand": "sync",
     "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "cmake.showOptionsMovedNotification": false,
+    "cmake.configureOnOpen": true
 }
