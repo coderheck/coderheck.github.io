@@ -23,7 +23,9 @@
     "cmake.configureOnOpen": true,
     "go.toolsManagement.autoUpdate": true,
     "discord.detailsIdling": "doin' nothing",
-    "discord.largeImageIdling": "idle",
+    "discord.largeImageIdling": "high on meth",
     "editor.indentSize": "tabSize",
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.showSlider": "always"
 }
