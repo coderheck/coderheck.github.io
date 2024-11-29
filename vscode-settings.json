@@ -36,4 +36,10 @@
     "doki.statusbar.name": "i love you aryanya",
     "doki.wallpaper.path": "C:/Users/datmobile/Pictures/arya1_semiTrans.png",
     "doki.background.path": "C:/Users/datmobile/Pictures/baldi_terrified.jpg",
+    "discord.lowerDetailsIdling": "mimimimimir",
+    "discord.lowerDetailsNoWorkspaceFound": "wtf are you doing",
+    "discord.lowerDetailsEditing": "at line: {current_line} of {total_lines}",
+    "terminal.integrated.fontLigatures": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "smoothtype.duration": 40,
 }
